@@ -1,10 +1,9 @@
 def speak_to_grandma(speak_to_grandma)
-  # if speak_to_grandma == "I LOVE YOU TOO GRANDMA!"
-  #   puts "I LOVE YOU TOO PUMPKIN!"
-  # else
-  #   puts "HUH?! SPEAK UP, SONNY!"
-  # end
-speak_to_grandma
+  if speak_to_grandma == "I LOVE YOU TOO GRANDMA!"
+    "I LOVE YOU TOO PUMPKIN!"
+  else
+    "HUH?! SPEAK UP, SONNY!"
+  end
 end
 
 
