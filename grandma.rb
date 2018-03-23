@@ -1,4 +1,4 @@
-def speak_to_grandma
+def speak_to_grandma(speak_to_grandma)
   speak_to_grandma == "I LOVE YOU GRANDMA!"
 end
 
