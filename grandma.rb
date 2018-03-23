@@ -1,6 +1,6 @@
 def speak_to_grandma(speak_to_grandma)
-  if speak_to_grandma
-#  puts "I LOVE YOU TOO PUMPKIN!"
+  if "speak_to_grandma" == "I LOVE YOU TOO GRANDMA!"
+  puts "I LOVE YOU TOO PUMPKIN!"
 end
 
 
